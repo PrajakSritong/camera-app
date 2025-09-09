@@ -38,11 +38,11 @@
 - กดปุ่ม "refresh" เพื่อถ่ายใหม่ หรือ "download" เพื่อบันทึกรูป (เฉพาะ iOS Development Build)
 - สลับกล้องหน้า/หลัง, เปิด/ปิดแฟลช และไฟฉายได้
 
-![หน้าเริ่มต้น](assets\image\หน้าdefault.jpg)
-![กล้องด้านหน้า](assets\image\กล้องหน้า.jpg)
-![เปิดไฟฉาย](assets\image\เปิดไฟฉาย.jpg)
-![ถ่ายรูปเปิดแฟลช](assets\image\แฟลช.jpg)
-![บันทึกรูปภาพ](assets\image\บันทึก.jpg)
+![หน้าเริ่มต้น](assets\image\หน้าdefault.png)
+![กล้องด้านหน้า](assets\image\กล้องหน้า.png)
+![เปิดไฟฉาย](assets\image\เปิดไฟฉาย.png)
+![ถ่ายรูปเปิดแฟลช](assets\image\แฟลช.png)
+![บันทึกรูปภาพ](assets\image\บันทึก.png)
 
 ## หมายเหตุ
 
