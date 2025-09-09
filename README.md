@@ -78,26 +78,32 @@
 - กดปุ่ม "refresh" เพื่อถ่ายใหม่ หรือ "download" เพื่อบันทึกรูป (เฉพาะ iOS Development Build)
 - สลับกล้องหน้า/หลัง, เปิด/ปิดแฟลช และไฟฉายได้
 
-<p align="center">
-  <img src="assets/image/start.png" width="120"/><br>
-  <sub>หน้าเริ่มต้น: ขอสิทธิ์เข้าถึงกล้องและคลังรูปภาพ</sub>
-</p>
-<p align="center">
-  <img src="assets/image/front.png" width="120"/><br>
-  <sub>กล้องด้านหน้า: ตัวอย่างการสลับกล้องหน้า</sub>
-</p>
-<p align="center">
-  <img src="assets/image/torch.png" width="120"/><br>
-  <sub>เปิดไฟฉาย: สาธิตการเปิดไฟฉายขณะใช้งานกล้อง</sub>
-</p>
-<p align="center">
-  <img src="assets/image/flash.png" width="120"/><br>
-  <sub>ถ่ายรูปเปิดแฟลช: ตัวอย่างการถ่ายภาพโดยเปิดแฟลช</sub>
-</p>
-<p align="center">
-  <img src="assets/image/save.png" width="120"/><br>
-  <sub>บันทึกรูปภาพ: หน้าตาเมื่อบันทึกรูปลงคลังภาพ</sub>
-</p>
+## ตัวอย่างหน้าจอ
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/image/start.png" width="120"/><br>
+      <sub>หน้าเริ่มต้น<br/>ขอสิทธิ์เข้าถึงกล้องและคลังรูปภาพ</sub>
+    </td>
+    <td align="center">
+      <img src="assets/image/front.png" width="120"/><br>
+      <sub>กล้องด้านหน้า<br/>ตัวอย่างการสลับกล้องหน้า</sub>
+    </td>
+    <td align="center">
+      <img src="assets/image/torch.png" width="120"/><br>
+      <sub>เปิดไฟฉาย<br/>สาธิตการเปิดไฟฉายขณะใช้งานกล้อง</sub>
+    </td>
+    <td align="center">
+      <img src="assets/image/flash.png" width="120"/><br>
+      <sub>ถ่ายรูปเปิดแฟลช<br/>ตัวอย่างการถ่ายภาพโดยเปิดแฟลช</sub>
+    </td>
+    <td align="center">
+      <img src="assets/image/save.png" width="120"/><br>
+      <sub>บันทึกรูปภาพ<br/>หน้าตาเมื่อบันทึกรูปลงคลังภาพ</sub>
+    </td>
+  </tr>
+</table>
 
 ## หมายเหตุ
 
