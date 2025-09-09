@@ -110,10 +110,3 @@
 - Expo Go บน Android ยังไม่สามารถบันทึกรูปลงคลังภาพได้ ต้องสร้าง Development Build ([ดูวิธีที่นี่](https://docs.expo.dev/development/introduction/))
 - ไฟล์ assets เช่น icon, splash, adaptive icon อยู่ในโฟลเดอร์ `assets/`
 
-
-
-## หมายเหตุ
-
-- Expo Go บน Android ยังไม่สามารถบันทึกรูปลงคลังภาพได้ ต้องสร้าง Development Build ([ดูวิธีที่นี่](https://docs.expo.dev/development/introduction/))
-- ไฟล์ assets เช่น icon, splash, adaptive icon อยู่ในโฟลเดอร์ `assets/`
-
