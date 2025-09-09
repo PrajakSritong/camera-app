@@ -78,11 +78,11 @@
 - กดปุ่ม "refresh" เพื่อถ่ายใหม่ หรือ "download" เพื่อบันทึกรูป (เฉพาะ iOS Development Build)
 - สลับกล้องหน้า/หลัง, เปิด/ปิดแฟลช และไฟฉายได้
 
-<img src="assets/image/start.png" width="300" />
-<img src="assets/image/front.png" width="300" />
-<img src="assets/image/torch.png" width="300" />
-<img src="assets/image/flash.png" width="300" />
-<img src="assets/image/save.png" width="300" />
+<img src="assets/image/start.png" width="200" />
+<img src="assets/image/front.png" width="200" />
+<img src="assets/image/torch.png" width="200" />
+<img src="assets/image/flash.png" width="200" />
+<img src="assets/image/save.png" width="200" />
 
 ## หมายเหตุ
 
