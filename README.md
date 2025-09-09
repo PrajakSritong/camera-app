@@ -79,7 +79,8 @@
 - สลับกล้องหน้า/หลัง, เปิด/ปิดแฟลช และไฟฉายได้
 
 <p align="center">
-## หน้าเริ่มต้น <img src="assets/image/start.png" width="200" />
+## หน้าเริ่มต้น 
+<img src="assets/image/start.png" width="200" />
 <img src="assets/image/front.png" width="200" />
 <img src="assets/image/torch.png" width="200" />
 <img src="assets/image/flash.png" width="200" />
